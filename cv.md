@@ -1,3 +1,5 @@
+![avatar](https://github.com/sadrozzy/rsschool-cv/blob/gh-pages/img/avatar.png?raw=true)
+
 # **Leonid Mellin**
 
 ***
