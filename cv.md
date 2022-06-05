@@ -42,3 +42,16 @@ function getIntoAnArgument() {
 * Self-education 
 * Course HTML/CSS in [HTML Academy](https://htmlacademy.ru)
 * RS school
+
+## Projects
+* [FSOCIETY Crypter](https://github.com/sadrozzy/fsociety)
+
+***
+
+## Languages
+|  Language  	|  Level 	|
+|:----------:	|:-----:	|
+|   English  	|   B2   	|
+| Belarusian 	| Native 	|
+|   Russian  	| Native 	|
+
