@@ -45,8 +45,8 @@ function getIntoAnArgument() {
 
 
 ## Languages
-|  Language  	|  Level 	|
-|:----------:	|:-----:	|
-|   English  	|   B2   	|
-| Belarusian 	| Native 	|
-|   Russian  	| Native 	|
+|  Language  |  Level 	|
+|:----------:|:--------:|
+|  English   |    B2    |
+| Belarusian |  Native 	|
+|  Russian   |  Native 	|
